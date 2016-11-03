@@ -14,7 +14,7 @@ Included in the precompiled packages for each platform are unless otherwise note
 * Qt 4.8.7
 * Qwt 5
 * QImageBlitz
-* QScintilla 2
+* QScintilla 2 (The smoke binding is called :qsci)
 * Phonon
 * Smoke
 * SmokeQt
